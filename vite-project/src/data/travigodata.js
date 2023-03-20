@@ -7,7 +7,6 @@ export const hero = {
     "btn2": "",
     "imgSrc": "",
 
-
 }
 
 export { hero }

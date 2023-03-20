@@ -15,7 +15,7 @@ export const Hero = () => {
                     </div>
                 </div>
                 <div className=''>
-                    <img></img>
+                    <img src='' alt='' className=''/>
                 </div>
             </div>
         </div>
