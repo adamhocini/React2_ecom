@@ -26,7 +26,7 @@ import uncheckbox from "../images/uncheckbox.svg";
 import facebook from '../images/facebook.svg';
 import instagram from '../images/instagram.svg';
 import twitter from '../images/twitter.svg';
-import youtube from '../images/youtube.svg';
+import youtube from '../images/youtube.jpeg';
 
 import banner from '../images/banner.webp';
 
